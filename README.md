@@ -1,2 +1,2 @@
 # MoonCommandBlocker
-Minecraft-Command-Blocker
+/mcb reload | permission: mcb.reload
